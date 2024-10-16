@@ -1,0 +1,6 @@
+{
+    "email": "YOUR-EMAIL",
+    "password": "YOUR-EMAIL-PASSWORD",
+    "name": "John Doe",
+    "subject": "Important Message For {{OWNER NAME}}"
+}
